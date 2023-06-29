@@ -1,2 +1,3 @@
-# LaTeX-Examples
-Lots of LaTeX examples
+# LaTeX Examples
+
+- [Equations](./equations.md)
